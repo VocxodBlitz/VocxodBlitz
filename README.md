@@ -1,6 +1,3 @@
-<h1 align="center">Привет, меня зовут Никита.> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
 - 👋 Hi, I’m @VocxodBlitz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
