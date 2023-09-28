@@ -1,3 +1,6 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 - 👋 Hi, I’m @VocxodBlitz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
